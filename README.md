@@ -4,3 +4,4 @@ This report demonstrates how a weak JWT secret was cracked using Hashcat, enabli
 
 **Tools Used:** Postman, Burp Suite, Hashcat  
 **Flag Found:** ✅
+<img src ="C:\Users\arnab\Downloads\DVAPI VAPT Reports\ChatGPT Image May 15, 2025, 08_15_06 AM.png">
